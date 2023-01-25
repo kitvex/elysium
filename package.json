@@ -1,10 +1,19 @@
 {
   "name": "elysium",
   "displayName": "elysium",
-  "description": "cute & pleasant theme",
+  "description": "A cute & pleasant vscode theme.",
+  "publisher": "elysium",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
+  },
+  "icon": "icons/vsc-icon.png"
+  "author": {
+    "name": "Chris"
+  },
+  "repository": {
+    "url": "https://github.com/kitvex/elysium.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
