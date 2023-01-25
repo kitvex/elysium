@@ -1,0 +1,21 @@
+{
+  "name": "elysium",
+  "displayName": "elysium",
+  "description": "cute & pleasant theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Elysium Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elysium Theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+:root {
+  --comment: #463c30;
+  --fg: #e2bd95;
+  --activity-bar-badge-bg: #cd784e;
+  --sidebar-title-fg: #c9b585;
+  --variables: #b7865d;
+  --bg: #1b1514;
+  --colors: #fff;
+  --invalid: #ff5370;
+  --keyword: #615a43;
+  --operator-misc: #80765b;
+  --tag: #ebdbad;
+  --function: #7b4f37;
+}
