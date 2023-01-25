@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.54.0"
   },
-  "icon": "icons/vsc-icon.png"
+  "icon": "icons/vsc-icon.png",
   "author": {
     "name": "Chris"
   },
