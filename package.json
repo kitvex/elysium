@@ -2,7 +2,7 @@
   "name": "elysium",
   "displayName": "elysium",
   "description": "A cute & pleasant vscode theme.",
-  "publisher": "elysium",
+  "publisher": "kitvex",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
